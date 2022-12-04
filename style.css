@@ -68,8 +68,8 @@ h1{
 
 .boton{
     position: absolute;
-    margin-bottom: 550px;
-    margin-right: 1250px;
+    margin-bottom: 650px;
+    margin-right: 1300px;
     color: whitesmoke;
     border: none;
     background-color: transparent;
@@ -77,6 +77,7 @@ h1{
     flex-direction: row;
     align-items: flex-start;
     justify-content: flex-end;
+    
 }
 
 .boton:active{
